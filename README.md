@@ -23,7 +23,10 @@ Aplicar los conocimientos adquiridos para resolver ejercicios propuestos mediant
 Analizar los diagramas electricos con el fin de interpretar y representar sus elementos de forma correcta mediante el estudio y aplicacion de sus propiedades fisicas.
 
 ## 2. MARCO TEORICO (RESUMEN)
+
 ![](https://github.com/emcabascango1/InformeTarea3/blob/main/IMAGENES/MAPAS/1/Mapa%20conceptual%20de%20ara%C3%B1a%20(1).jpeg)
+
+![](https://github.com/emcabascango1/InformeTarea3/blob/main/IMAGENES/MAPAS/1/Mapa%20de%20sitio%20de%20Lucidchart.jpeg)
 ## 3. EXPLICACION  RESOLUCION DE PROBLEMAS 
 
 ### CAPITULO 5
