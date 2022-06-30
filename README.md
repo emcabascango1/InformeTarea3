@@ -165,7 +165,3 @@ Los calculos de las diversas magnitudes electricas permiten aclarar dudas con re
 ## 6. Bibliografía:
 
 Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos-Octava edición.
-
-
-
-
